@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: MyText
+  title: MyString
+  description: MyText
+  image_url: MyText
+  last_visited: 2022-11-22 13:23:57
+  folder: MyString
+
+two:
+  location: MyText
+  title: MyString
+  description: MyText
+  image_url: MyText
+  last_visited: 2022-11-22 13:23:57
+  folder: MyString

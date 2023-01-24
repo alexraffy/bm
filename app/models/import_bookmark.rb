@@ -1,0 +1,2 @@
+class ImportBookmark < ApplicationRecord
+end
